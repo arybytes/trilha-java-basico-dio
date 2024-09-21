@@ -12,4 +12,7 @@ Baseando-se no vídeo de lançamento do iPhone de 2007, foi elaborado um diagram
 
 ## Diagrama UML
 O diagrama UML que representa a modelagem do projeto pode ser visualizado abaixo:
-![DiagramaUML](https://github.com/user-attachments/assets/fad1bc92-febc-48c3-9284-e4f0f8c1ea00)
+
+![Diagrama drawio](https://github.com/user-attachments/assets/679369b8-097c-4dbe-af77-f49bfda32da5)
+
+
