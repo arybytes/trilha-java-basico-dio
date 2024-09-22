@@ -1,4 +1,4 @@
-# Desafio POO DIO - Trilha Java Básico
+# Desafio DIO - Trilha Java Básico
 
 ## Descrição
 Este projeto consiste na modelagem e diagramação de um componente iPhone, abrangendo suas principais funcionalidades: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
